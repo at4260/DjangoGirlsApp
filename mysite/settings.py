@@ -1,7 +1,6 @@
 # Django settings for mysite project.
 import os
 
-# from settings import PROJECT_ROOT
 BASE_DIR = os.path.dirname(os.path.realpath(__file__))
 
 DEBUG = True
